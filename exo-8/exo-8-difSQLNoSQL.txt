@@ -1,0 +1,5 @@
+La difference entre une bdd SQL et NoSQL sont:
+-SQL utilise une structure de donnée dite relationnelle, les données doivent être structurées de la bonne manière et la bdd n'est pas très flexible
+-La bdd SQL est requêtée via des requêtes SQL, ces requêtes sont structuré et correspondent à un langage
+-Une bdd NoSQL utilise une structure de données non relationnelles et est plus flexible. Pour faire des requête, le NoSQL n'a pas de langage particulier, on peut utiliser tant bien des api que des requête SQL
+-Dans une bdd SQL, les données sont stockées sous forme de tables, liées les unes aux autres par des clés alors que dans du NoSQL, les données sont stockées dans des documents, graphiques, dossiers/fichiers, etc ...
