@@ -1,0 +1,3 @@
+SELECT * FROM Car
+INNER JOIN Brand ON Car.brandId=Brand.id
+WHERE Brand.brandLabel LIKE "BMW";
