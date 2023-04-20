@@ -1,0 +1,12 @@
+let voiture = document.getElementById('modele')
+let section = document.getElementById('sect')
+
+voiture.addEventListener('click' , function() {
+  let elt = document.createElement("div");
+  elt.innerHTML = "<h1>Voici le bloc image</h1>";
+  let eltImg = document.createElement("img");
+  eltImg.src = "instagram-icone.png" ;
+  elt.appendChild(eltImg);
+  section.appendChild(elt);
+}
+)

@@ -1,0 +1,13 @@
+let voiture = document.getElementById('modele')
+let section = document.getElementById('sect')
+let increment = 0
+let elt = document.createElement("div")
+
+voiture.addEventListener('click' , function() {
+  increment++;
+  elt.innerHTML = "<h1>" + increment + "</h1>";
+  section.appendChild(elt);
+  localStorage.setItem("pantoufle", elt.innerHTML);
+
+}
+)
