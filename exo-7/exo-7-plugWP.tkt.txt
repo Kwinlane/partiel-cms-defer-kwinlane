@@ -1,0 +1,10 @@
+En tapant "theme editor" sur wordpress, nous pouvons trouver les plugins:
+Classic Editor,
+WP Editor,
+Elementor,
+Divi,
+Theme editor,
+Beaver Builder,
+Customizer.
+
+Ce ne sont pas les seuls, il y en a une multitude d'autres.

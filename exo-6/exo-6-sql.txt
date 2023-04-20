@@ -1,0 +1,4 @@
+INSERT INTO Brand (brandLabel) VALUES ('Ferrari');
+
+/*Dans le cadre où l'on rajoute que la marque, si l'on veut rajouter avec le modèle, il faut juste faire ceci:
+INSERT INTO Brand (brandLabel, modele) VALUES ('Ferrari', 'modèle');*/
